@@ -1,5 +1,7 @@
 // Define your base URL here
-const BASE_URL = "http://localhost:5000/api/v1";
+// const BASE_URL = "http://localhost:5000/api/v1";
+const BASE_URL = "https://backend-expense-f632.onrender.com";
+
 
 // Auth endpoints
 export const AUTH_API = {
